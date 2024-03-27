@@ -1,3 +1,4 @@
 transformers
 streamlit
 deep-translator
+tensorflow
