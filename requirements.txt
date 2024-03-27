@@ -2,3 +2,4 @@ transformers
 streamlit
 deep-translator
 tensorflow
+tf-keras
